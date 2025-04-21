@@ -8,6 +8,7 @@ function App() {
         Hello world! p
         Welcome to my React app!
         saya awang
+        kadua awang
       </h1>
     </div>
   )
