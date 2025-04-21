@@ -7,6 +7,7 @@ function App() {
       <h1 className="text-3xl font-mono text-white">
         Hello world! p
         Welcome to my React app!
+        saya awang
       </h1>
     </div>
   )
